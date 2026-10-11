@@ -11,3 +11,5 @@ Run "apply_xdelta.bat" on an untouched original disc image. Don’t apply it to 
 Tested in Flycast and Retroarch with the Flycast core.
 
 NOTE: The patch may rename the track03.bin file to track03.bin.new.  If this happens delete track 03.bin and remove the ".new" extension from the new file so it is named "track03.bin".
+
+xdelta3 by Joshua MacDonald: https://github.com/jmacd/xdelta
