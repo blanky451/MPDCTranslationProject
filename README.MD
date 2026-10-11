@@ -1,4 +1,4 @@
-Mercurius Pretty: End of the Century English Patch - Sega Dreamcast
+Mercurius Pretty: End of the Century English Patch - Sega Dreamcast (MACHINE TRANSLATED)
 
 **WARNING*
 
