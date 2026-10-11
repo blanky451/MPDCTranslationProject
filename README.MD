@@ -9,3 +9,7 @@ Using the patch:
 Run "apply_xdelta.bat" on an untouched original disc image. Don’t apply it to a disc that already has an older patch, because xdelta will refuse.
 
 Tested in Flycast and Retroarch with the Flycast core.
+
+Version history:
+0.1: Initial release
+0.2: Fixed garbled text in some conversations.
