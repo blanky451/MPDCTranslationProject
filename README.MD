@@ -14,6 +14,6 @@ Tested in Flycast and Retroarch with the Flycast core.
 
 NOTE: The patch may rename the "track03.bin" file to "track03.bin.new".  If this happens delete "track03.bin" and remove the ".new" extension from the new file so it is named "track03.bin".
 
-As with any ongoing project: EXPECT BUGS.
+As with any ongoing project: EXPECT BUGS. Patch will be updated as bugs are found.
 
 xdelta3 by Joshua MacDonald: https://github.com/jmacd/xdelta
