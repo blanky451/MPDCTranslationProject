@@ -9,3 +9,5 @@ Using the patch:
 Run "apply_xdelta.bat" on an untouched original disc image. Don’t apply it to a disc that already has an older patch, because xdelta will refuse.
 
 Tested in Flycast and Retroarch with the Flycast core.
+
+NOTE: The patch may rename the track03.bin file to track03.bin.new.  If this happens delete track 03.bin and remove the ".new" extension from the new file so it is named "track03.bin".
