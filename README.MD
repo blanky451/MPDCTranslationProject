@@ -13,3 +13,4 @@ Tested in Flycast and Retroarch with the Flycast core.
 Version history:
 0.1: Initial release
 0.2: Fixed garbled text in some conversations.
+
