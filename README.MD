@@ -16,4 +16,6 @@ NOTE: The patch may rename the "track03.bin" file to "track03.bin.new".  If this
 
 As with any ongoing project: EXPECT BUGS. Patch will be updated as bugs are found.
 
+TRANSLATION NOTES: The translation isn't perfect, but it is close enough that players can understand what's going on and play. It will be improved in future patches.
+
 xdelta3 by Joshua MacDonald: https://github.com/jmacd/xdelta
