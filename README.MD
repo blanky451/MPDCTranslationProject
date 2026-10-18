@@ -16,7 +16,7 @@ NOTE: The patch may rename the "track03.bin" file to "track03.bin.new".  If this
 
 As with any ongoing project: EXPECT BUGS. Patch will be updated as bugs are found.
 
-TRANSLATION NOTES: The translation isn't completely perfect, but it is close enough that players can understand what's going on and play with little to no difficulty. It will be improved in future patches. The current accuracy estimation is between 90-95%.
+TRANSLATION NOTES: Text 100% translated, about 10% flagged for review, full playthrough not yet confirmed."
 
 xdelta3 by Joshua MacDonald: https://github.com/jmacd/xdelta
 
